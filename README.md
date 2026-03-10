@@ -196,5 +196,5 @@ Data Science / Analytics Enthusiast
 ##  Dashboard Preview
 ### Exploratory Data Analysis
 ![EDA] (images/EDA.png)
-###  What if analysis
+###  What_if_analysis
 ![What if analysis] (images/What if.png)
